@@ -8,9 +8,9 @@ Avenga data science team contribution to COVID19 data analysis.
 
 Files in the repository:
 
-*avenga-covid19.html* - run it locally as HTML file in the browser to read analysis, formulas and plots/graphs
+**avenga-covid19.html** - run it locally as HTML file in the browser to read analysis, formulas and plots/graphs
 
-*avenga-covid19.ipynb* - Jupyter notebook to explore the data and analytics locally
+**avenga-covid19.ipynb** - Jupyter notebook to explore the data and analytics locally
 
 The latest updates will be published here, just refresh your git repository.
 
