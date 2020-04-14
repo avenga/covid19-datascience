@@ -14,6 +14,8 @@ Files in the repository:
 
 The latest updates will be published here, just refresh your git repository.
 
+Please use files from your local repository, the HTML file does not render properly when open directly from github website.
+
 ## Medium article
 
 Article is not published yet, the link will be available here.
