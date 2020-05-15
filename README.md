@@ -2,7 +2,7 @@
 
 ## Overview
 
-Avenga data science team contribution to COVID19 data analysis.
+[Avenga](https://www.avenga.com) [data science](https://www.avenga.com/our-expertise/data-services/) team contribution to [COVID19 data analysis](https://www.avenga.com/magazine/data-science-perspective-on-covid-19-a-real-life-example/).
 
 ## Repo contents
 
@@ -18,8 +18,7 @@ Please use files from your local repository, the HTML file does not render prope
 
 ## Medium article
 
-Article is not published yet, the link will be available here.
-//todo: link
+Our article is [here](https://www.avenga.com/magazine/data-science-perspective-on-covid-19-a-real-life-example/)
 
 ## Changelog
 
